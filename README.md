@@ -133,20 +133,13 @@ More details about the ground truth are available on the links below.
 Clausius Street dataset consists of both an air-sequence and a hand-held sequence recorded on the same day along a residential street with the camera facing the buildings of one street side. These combined sequences present extreme viewpoint changes with images captured from a very wide baseline (air to ground).
 
 ### Examples
-<div class="row">
- <div class="column">
-  <img src="https://i.imgur.com/vrTF94V.png" alt="clausius_ground_1" width=100  hspace="0" />
- </div>
- <div class="column">
-  <img src="https://i.imgur.com/th8cFpr.png" alt="clausius_air_1" width=100 hspace="10" />
- </div>
- <div class="column">
-  <img src="https://i.imgur.com/dQEYvfX.png" alt="clausius_ground_2" width=100  hspace="0" />
- </div>
- <div class="column">
-  <img src="https://i.imgur.com/9BKY6Mn.png" alt="clausius_air_2" width=100  hspace="10" />
- </div>
-</div>
+
+<p float="left">
+  <img src="https://i.imgur.com/vrTF94V.png" width="200" />
+  <img src="https://i.imgur.com/th8cFpr.png" width="200" /> 
+  <img src="https://i.imgur.com/dQEYvfX.png" width="200" />
+  <img src="https://i.imgur.com/9BKY6Mn.png" width="200" />
+</p>
 
 ### Data
 
