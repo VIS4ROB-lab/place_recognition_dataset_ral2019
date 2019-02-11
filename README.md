@@ -2,8 +2,8 @@
 This dataset provides synthetic and real outdoors sequences especially recorded for place recognition applications using both flying and hand-held setups. This dataset was made publicly available with the paper "Real-time Wide-baseline Place Recognition using Depth Completion", by Fabiola Maffra, Lucas Teixeira, Zetao Chen and Margarita Chli, published at IEEE Robotics and Automation Letters (RA-L) 2019 [[paper](https://doi.org/10.1109/lra.2019.2895826)].
 
 #### Video:
-<a href="https://youtu.be/iwxbxAsCJbM" target="_blank"><img src="png" 
-alt="intro" width="240" height="180" border="10" /></a>
+<a href="https://youtu.be/iwxbxAsCJbM" target="_blank"><img src="https://i.imgur.com/mkeW2ML.png" 
+alt="intro" width="240" height="135" border="10" /></a>
 
 
 If you use this dataset, please cite the following publication:
