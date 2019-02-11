@@ -29,12 +29,12 @@ The L'Agout synthetic dataset was produced using aerial pictures of “Maisons s
 
 
 ### Examples
-<a href="Youtube" target="_blank"><img src="png" 
-alt="shop1_seq1" width="200"  border="10" /></a>
-<a href="Youtube" target="_blank"><img src="png" 
-alt="shop1_seq2" width="200"  border="10" /></a>
-<a href="Youtube" target="_blank"><img src="png" 
-alt="shop2_seq1" width="200"  border="10" /></a>
+<p float="left">
+  <img src="https://i.imgur.com/jNGEKl5.png" width="200" />
+  <img src="https://i.imgur.com/Zj2vLgd.png" width="200" /> 
+  <img src="https://i.imgur.com/MkOKLyp.png" width="200" />
+  <img src="https://i.imgur.com/L2R4i0D.png" width="200" />
+</p>
 
 ### Data
 
