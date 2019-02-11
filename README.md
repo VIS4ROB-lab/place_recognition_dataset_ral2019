@@ -135,16 +135,16 @@ Clausius Street dataset consists of both an air-sequence and a hand-held sequenc
 ### Examples
 <div class="row">
  <div class="column">
-  <img src="https://i.imgur.com/vrTF94V.png" alt="clausius_ground_1" width=200  hspace="0" />
+  <img src="https://i.imgur.com/vrTF94V.png" alt="clausius_ground_1" width=180  hspace="0" />
  </div>
  <div class="column">
-  <img src="https://i.imgur.com/th8cFpr.png" alt="clausius_air_1" width=200 hspace="10" />
+  <img src="https://i.imgur.com/th8cFpr.png" alt="clausius_air_1" width=180 hspace="10" />
  </div>
  <div class="column">
-  <img src="https://i.imgur.com/dQEYvfX.png" alt="clausius_ground_2" width=200  hspace="0" />
+  <img src="https://i.imgur.com/dQEYvfX.png" alt="clausius_ground_2" width=180  hspace="0" />
  </div>
  <div class="column">
-  <img src="https://i.imgur.com/9BKY6Mn.png" alt="clausius_air_2" width=200  hspace="10" />
+  <img src="https://i.imgur.com/9BKY6Mn.png" alt="clausius_air_2" width=180  hspace="10" />
  </div>
 </div>
 
