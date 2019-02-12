@@ -117,10 +117,12 @@ More details about the ground truth are available on the links below.
 Two sequences were recorded at the end of the day in the old city of Zurich, exhibiting not only small, but also challenging viewpoint variations due to the presence of narrow passages in this area, providing wide range of viewpoints of the same places. This dataset comprises two traverses along the same route, each one covering a distance of approximately 230 meters. In total, 10 minutes of data were recorded for this dataset.
 
 ### Examples
-<a href="Youtube" target="_blank"><img src="png" 
-alt="uav_seq1" width="200"  border="10" /></a>
-<a href="Youtube" target="_blank"><img src="png" 
-alt="uav_seq2" width="200"  border="10" /></a>
+<p float="left">
+  <img src="https://i.imgur.com/kbFZAfE.png" width="200" />
+  <img src="https://i.imgur.com/19ms6dI.png" width="200" /> 
+  <img src="https://i.imgur.com/FFmhIqq.png" width="200" />
+  <img src="https://i.imgur.com/3D3V8ry.png" width="200" />
+</p>
 
 ### Data
 
