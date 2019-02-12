@@ -40,11 +40,11 @@ The L'Agout synthetic dataset was produced using aerial pictures of “Maisons s
 
 **L'Agout Sequence 0°**  - [Bagfile](Bagfile) - [Youtube](https://youtu.be/PCw3__0jq3c)
 
-**L'Agout Sequence 15°** - [Bagfile](Bagfile) - [Youtube](Youtube)
+**L'Agout Sequence 15°** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/1UdyCCpisGE)
  
-**L'Agout Sequence 30°** - [Bagfile](Bagfile) - [Youtube](Youtube)
+**L'Agout Sequence 30°** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/pWrMnvU9B1Y)
 
-**L'Agout Sequence 45°** - [Bagfile](Bagfile) - [Youtube](Youtube)
+**L'Agout Sequence 45°** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/Fy3zjycD6yY)
 
 ### Ground truth
 
