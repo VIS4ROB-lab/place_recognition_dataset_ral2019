@@ -161,19 +161,6 @@ Clausius Street dataset consists of both an air-sequence and a hand-held sequenc
 
 **Clausius Street Ground Sequence** - [Bagfile](Bagfile) - [Youtube](Youtube)
 
-### Ground truth
-
-* Clausius Street Air-Ground Sequence:
-
-  - Reference Dataset: Clausius Street Air Sequence
-  - Query Dataset    : Clausius Street Ground Sequence
-
-More details about the ground truth are available on the links below.
-
-**Clausius Street Air-Ground Sequence** - [Ground truth](Ground truth)
-
-
-
 
 
 
