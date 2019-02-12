@@ -87,11 +87,11 @@ The Corvin dataset was produced using aerial footage of the Corvin Castle visibl
 
 ### Data
 
-**Corvin Sequence 0°**  - [Bagfile](Bagfile) - [Youtube](https://youtu.be/vAM2o0gxN3A)
+**Corvin Sequence 0°**  - [Bagfile](https://drive.google.com/open?id=1EndghfpOmZ0M8qPtQRmv8amF8adPE1PG) - [Youtube](https://youtu.be/vAM2o0gxN3A)
 
-**Corvin Sequence 30°** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/NMs-4A3hOTQ)
+**Corvin Sequence 30°** - [Bagfile](https://drive.google.com/open?id=1PaS5hv9UQVg5HAtcINDZw1kcR6PgC16x) - [Youtube](https://youtu.be/NMs-4A3hOTQ)
  
-**Corvin Sequence 45°** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/0xjogG1ehlQ)
+**Corvin Sequence 45°** - [Bagfile](https://drive.google.com/open?id=1fN_pegIMfqPn8-jJ21w7e9P9LX41r7nC) - [Youtube](https://youtu.be/0xjogG1ehlQ)
 
 ### Ground truth
 
