@@ -126,9 +126,9 @@ Two sequences were recorded at the end of the day in the old city of Zurich, exh
 
 ### Data
 
-**Old City Sequence 1** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/thEHGiFyZtY)
+**Old City Sequence 1** - [Bagfile](https://drive.google.com/open?id=1PUcothCjJdJSoHfOivhGWwI34wIuY71W) - [Youtube](https://youtu.be/thEHGiFyZtY)
 
-**Old City Sequence 2** - [Bagfile](Bagfile) - [Youtube](https://youtu.be/YTIQgcEUXrg)
+**Old City Sequence 2** - [Bagfile](https://drive.google.com/open?id=1oRpmfjGQD59rvQnhrN0E2hc-5ZRRzamU) - [Youtube](https://youtu.be/YTIQgcEUXrg)
 
 ### Ground truth
 
