@@ -177,6 +177,25 @@ More details about the ground truth are available on the links below.
 
 **Old City Sequence 1 & 2** - [Ground truth](Ground truth)
 
+### Calibration
+
+The images were captured using a [VI-Sensor](http://wiki.ros.org/vi_sensor) and calibrated using [ETHZ ASL Kalibr](https://github.com/ethz-asl/kalibr). Below are the calibration parameters. Note that T_SC is the transformation from the Camera to the Sensor (IMU). The set of values correspond to camera0's intrinsics.
+
+```python
+
+- {T_SC:     
+    [0.9997754002442455, -0.021161371053313276, -0.0011599317232830833, -0.03742703361193287,
+     0.021167568626536626, 0.999760145165724, 0.00562015806284527, 0.0059817697251900205,
+     0.0010407232579056848, -0.005643448711071745, 0.9999835340553093, 0.0005720705107382817,
+     0.0, 0.0, 0.0, 1.0],
+    image_dimension: [752, 480],
+    distortion_coefficients: [0.00953484510402244, -0.017544574626951994, 0.0196682925507835, -0.006035463565306639],
+    distortion_type: equidistant,
+    focal_length: [470.9855284431703, 470.85690553639535],
+    principal_point: [376.3839029041999, 247.67863814640694]}
+
+```
+
 
 ## Clausius Street dataset (Air-Ground)
 
@@ -196,11 +215,6 @@ Clausius Street dataset consists of both an air-sequence and a hand-held sequenc
 **Clausius Street Air Sequence**    - [Bagfile](https://drive.google.com/open?id=1E4rBqWzBeQ0c2ofsKib7lccI3sCDPkA8) - [Youtube](https://youtu.be/xe8gySTZfsw)
 
 **Clausius Street Ground Sequence** - [Bagfile](https://drive.google.com/open?id=1aoQS3b9kgfIHvG3R_5wTBbgVMwtSj1Sb) - [Youtube](https://youtu.be/os2BbCOjha4)
-
-
-
-
-
 
 ### Calibration
 
