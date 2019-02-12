@@ -157,7 +157,7 @@ Clausius Street dataset consists of both an air-sequence and a hand-held sequenc
 
 ### Data
 
-**Clausius Street Air Sequence**    - [Bagfile](Bagfile) - [Youtube](Youtube)
+**Clausius Street Air Sequence**    - [Bagfile](https://drive.google.com/open?id=1E4rBqWzBeQ0c2ofsKib7lccI3sCDPkA8) - [Youtube](https://youtu.be/xe8gySTZfsw)
 
 **Clausius Street Ground Sequence** - [Bagfile](Bagfile) - [Youtube](Youtube)
 
