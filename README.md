@@ -38,7 +38,7 @@ The L'Agout synthetic dataset was produced using aerial pictures of “Maisons s
 
 ### Data
 
-**L'Agout Sequence 0°**  - [Bagfile](Bagfile) - [Youtube](Youtube)
+**L'Agout Sequence 0°**  - [Bagfile](Bagfile) - [Youtube](https://youtu.be/PCw3__0jq3c)
 
 **L'Agout Sequence 15°** - [Bagfile](Bagfile) - [Youtube](Youtube)
  
