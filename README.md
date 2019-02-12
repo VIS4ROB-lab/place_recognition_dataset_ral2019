@@ -73,6 +73,24 @@ More details about the ground truth are available on the links below.
 
 **L'Agout Sequence 0° & Sequence 45°** - [Ground truth](Ground truth)
 
+### Calibration
+
+The visual-inertial data reproduces the Skybotix VI-Sensor with the same resolution of the real datasets. Below are the calibration parameters used in the data generation. Note that T_SC is the transformation from the Camera to the Sensor (IMU).
+
+```python
+
+- {T_SC:     
+    [1.0, 0.0, 0.0, 0.0,        
+     0.0, 1.0, 0.0, 0.0,         
+     0.0, 0.0, 1.0, 0.0,
+     0.0, 0.0, 0.0, 1.0],
+    image_dimension: [752, 480],
+    distortion_coefficients: [0.0, 0.0, -0.0, 0.0],
+    focal_length: [455.0, 455.0],
+    principal_point: [376.5, 240.5]}
+
+```
+
                                            
 ## Corvin dataset
 
@@ -110,6 +128,24 @@ More details about the ground truth are available on the links below.
 **Corvin Sequence 0° & Sequence 30°** - [Ground truth](Ground truth)
 
 **Corvin Sequence 0° & Sequence 45°** - [Ground truth](Ground truth)
+
+### Calibration
+
+The visual-inertial data reproduces the Skybotix VI-Sensor with the same resolution of the real datasets. Below are the calibration parameters used in the data generation. Note that T_SC is the transformation from the Camera to the Sensor (IMU).
+
+```python
+
+- {T_SC:     
+    [1.0, 0.0, 0.0, 0.0,        
+     0.0, 1.0, 0.0, 0.0,         
+     0.0, 0.0, 1.0, 0.0,
+     0.0, 0.0, 0.0, 1.0],
+    image_dimension: [752, 480],
+    distortion_coefficients: [0.0, 0.0, -0.0, 0.0],
+    focal_length: [455.0, 455.0],
+    principal_point: [376.5, 240.5]}
+
+```
 
 
 ## Old City dataset
