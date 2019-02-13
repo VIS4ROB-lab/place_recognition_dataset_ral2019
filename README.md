@@ -203,7 +203,7 @@ The images were captured using a [VI-Sensor](http://wiki.ros.org/vi_sensor) and 
 
 ## Clausius Street dataset (Air-Ground)
 
-Clausius Street dataset consists of both an air-sequence and a hand-held sequence recorded on the same day along a residential street with the camera facing the buildings of one street side. These combined sequences present extreme viewpoint changes with images captured from a very wide baseline (air to ground).
+Clausius Street dataset consists of both an air-sequence and a hand-held sequence recorded on the same day along a residential street with the camera facing the buildings of one street side. These combined sequences present extreme viewpoint changes with images captured from a very wide baseline (air to ground) and challenging illumination changes.
 
 ### Examples
 
