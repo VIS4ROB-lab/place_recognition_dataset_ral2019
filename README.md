@@ -94,7 +94,7 @@ The visual-inertial data reproduces the Skybotix VI-Sensor with the same resolut
                                            
 ## Corvin dataset
 
-The Corvin dataset was produced using aerial footage of the Corvin Castle visible. We produced 3 sequences at 0° , 30° , and 45°, while doing a 300-meter circular flight around the castle. These sequences capture a scene composed of a large range of different depths.
+The Corvin dataset was produced using aerial footage of the Corvin Castle visible. We produced 3 sequences at 0° , 30° , and 45°, while doing a 300-meter circular flight around the castle. These sequences capture a scene composed of a large range of different depths. By combining sequences at different angles, large changes in viewpoint can be simulated and a very challenging place recognition dataset is created.
 
 ### Examples
 <p float="left">
