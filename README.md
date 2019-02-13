@@ -67,11 +67,11 @@ The ground truth for each dataset was manually annotated using 2 different seque
 
 More details about the ground truth are available on the links below.
 
-**L'Agout Sequence 0° & Sequence 15°** - [Ground truth](Ground truth)
+**L'Agout Sequence 0° & Sequence 15°** - [Ground truth](https://drive.google.com/open?id=1kfb6PkQaVrCj5_oV3MhQIRMXc1ml8eAb)
 
-**L'Agout Sequence 0° & Sequence 30°** - [Ground truth](Ground truth)
+**L'Agout Sequence 0° & Sequence 30°** - [Ground truth](https://drive.google.com/open?id=1C9nANtWhlPUVeNZgarYD-8z7OMg06BKJ)
 
-**L'Agout Sequence 0° & Sequence 45°** - [Ground truth](Ground truth)
+**L'Agout Sequence 0° & Sequence 45°** - [Ground truth](https://drive.google.com/open?id=1UgwiexS9Y7fKAk8OW0OMUD_t-YNpC_eq)
 
 ### Calibration
 
@@ -125,9 +125,9 @@ The Corvin dataset was produced using aerial footage of the Corvin Castle visibl
 
 More details about the ground truth are available on the links below.
 
-**Corvin Sequence 0° & Sequence 30°** - [Ground truth](Ground truth)
+**Corvin Sequence 0° & Sequence 30°** - [Ground truth](https://drive.google.com/open?id=1BU_z95cR-nJLYLjnDrBS1kfxsrHiRtYt)
 
-**Corvin Sequence 0° & Sequence 45°** - [Ground truth](Ground truth)
+**Corvin Sequence 0° & Sequence 45°** - [Ground truth](https://drive.google.com/open?id=1Y1UWsbKZstzjsfwHjWVV9f2yHzfFpvQc)
 
 ### Calibration
 
@@ -175,7 +175,7 @@ Two sequences were recorded at the end of the day in the old city of Zurich, exh
 
 More details about the ground truth are available on the links below.
 
-**Old City Sequence 1 & 2** - [Ground truth](Ground truth)
+**Old City Sequence 1 & 2** - [Ground truth](https://drive.google.com/open?id=1cC9vanAzaL2FVPyu1zPpz55nKM1DPLWy)
 
 ### Calibration
 
