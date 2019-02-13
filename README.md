@@ -25,7 +25,7 @@ If you use this dataset, please cite the following publication:
 
 ## L'Agout dataset
 
-The L'Agout synthetic dataset was produced using aerial pictures of “Maisons sur l’Agout” visible in Fig. 5, depicting medieval houses with balconies over the river Agout. We produce 4 sequences of 100 meters with a laterally moving drone carrying a camera facing the houses at 0° (i.e. pointing forwards), 15° from the horizon, 30°, and 45° as shown in Fig. 6b. It is important to highlight that the position of the drone was chosen in a way that the camera frustum is completely filled by the buildings in order to guarantee that the only difference between these sequences happens in the viewpoint, without any changes in scale. By combining sequences at different angles, large changes in viewpoint can be simulated and a very challenging place recognition dataset is created. 
+The L'Agout synthetic dataset was produced using aerial pictures of “Maisons sur l’Agout”, depicting medieval houses with balconies over the river Agout. We produce 4 sequences of 100 meters with a laterally moving drone carrying a camera facing the houses at 0° (i.e. pointing forwards), 15° from the horizon, 30°, and 45°. It is important to highlight that the position of the drone was chosen in a way that the camera frustum is completely filled by the buildings in order to guarantee that the only difference between these sequences happens in the viewpoint, without any changes in scale. By combining sequences at different angles, large changes in viewpoint can be simulated and a very challenging place recognition dataset is created. 
 
 
 ### Examples
@@ -94,7 +94,7 @@ The visual-inertial data reproduces the Skybotix VI-Sensor with the same resolut
                                            
 ## Corvin dataset
 
-The Corvin dataset was produced using aerial footage of the Corvin Castle visible in Figs. 4 and 6. We produced 3 sequences at 0° , 30° , and 45° , while doing a300-meter circular flight around the castle. These sequences capture a scene composed of a large range of different depths.
+The Corvin dataset was produced using aerial footage of the Corvin Castle visible. We produced 3 sequences at 0° , 30° , and 45°, while doing a 300-meter circular flight around the castle. These sequences capture a scene composed of a large range of different depths.
 
 ### Examples
 <p float="left">
