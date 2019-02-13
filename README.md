@@ -48,7 +48,7 @@ The L'Agout synthetic dataset was produced using aerial pictures of “Maisons s
 
 ### Ground truth
 
-The ground truth for each dataset was manually annotated using 2 different sequences, a query sequence and a reference sequence. The sequences used as reference and query for the available ground truth are:
+The ground truth for each dataset was automatically annotated using 2 different sequences, a query sequence and a reference sequence. The sequences used as reference and query for the available ground truth are:
 
 * L'Agout Sequence 0° & Sequence 15°:
 
@@ -113,6 +113,8 @@ The Corvin dataset was produced using aerial footage of the Corvin Castle visibl
 
 ### Ground truth
 
+The ground truth for each dataset was automatically annotated using 2 different sequences, a query sequence and a reference sequence. The sequences used as reference and query for the available ground truth are:
+
 * Corvin Sequence 0° & Sequence 30°:
 
   - Reference Dataset: Corvin Sequence 0°
@@ -168,12 +170,14 @@ Two sequences were recorded at the end of the day in the old city of Zurich, exh
 
 ### Ground truth
 
+The ground truth for each dataset was automatically annotated using 2 different sequences, a query sequence and a reference sequence. The sequences used as reference and query for the available ground truth are:
+
 * Old City Sequence 1 & 2:
 
   - Reference Dataset: Old City Sequence 1
   - Query Dataset    : Old City Sequence 2
 
-More details about the ground truth are available on the links below.
+More details about the ground truth are available on the link below.
 
 **Old City Sequence 1 & 2** - [Ground truth](https://drive.google.com/open?id=1cC9vanAzaL2FVPyu1zPpz55nKM1DPLWy)
 
